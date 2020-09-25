@@ -14,11 +14,17 @@ body {
     width: 100%;
 }
 
-.navbar-nav {
-    display: ;
-
-}
-
 .bg-light {
     background-color: rgb(0 0 0 / 11%) !important;
+}
+
+.dl,
+ol,
+ul {
+    width: 100%;
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: center;
 }
