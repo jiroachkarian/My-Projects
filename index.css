@@ -7,3 +7,7 @@ body {
     flex-direction: column;
     margin: unset;
 }
+
+a {
+    text-decoration: none;
+}
